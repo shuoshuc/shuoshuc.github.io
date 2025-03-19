@@ -81,6 +81,7 @@ I am very fortunate to work with many great people:
 
 ## Awards and Membership
 
+- CMU Provost / Graduate Student Assembly funding award (2025)
 - NYU Henry M. MacCracken Fellowship \[declined\] (2020)
 - Silver Perfy Award, Google (2019)
 - Academic Excellence Award Nomination, University of Virginia (2016)
