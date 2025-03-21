@@ -83,7 +83,7 @@ I am very fortunate to work with many great people:
 
 - CMU Provost / Graduate Student Assembly funding award (2025)
 - NYU Henry M. MacCracken Fellowship \[declined\] (2020)
-- Silver Perfy Award, Google (2019)
+- Google Silver Perfy Award (2019)
 - Academic Excellence Award Nomination, University of Virginia (2016)
 - OpenHW Vivado HLS Contest Runner-up, Xilinx (2014)
 - Outstanding Undergraduate Capstone Project, Wuhan University (2014)
@@ -92,7 +92,7 @@ I am very fortunate to work with many great people:
 ## Service
 
 - Review - IEEE/ACM Transactions on Networking, IEEE GLOBECOM'24
-- Subreview - HotNets'23, NSDI'23, NSDI'22
+- External review - HotNets'23, NSDI'23, NSDI'22
 - Artifact evaluation committee - SIGCOMM'24, SIGCOMM'23, CoNEXT'23, OSDI/ATC'22
 
 ## Fun Stuff
