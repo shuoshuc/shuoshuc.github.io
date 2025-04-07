@@ -81,6 +81,7 @@ I am very fortunate to work with many great people:
 
 ## Awards and Membership
 
+- Lambda Research Grant award (2025)
 - CMU Provost / Graduate Student Assembly funding award (2025)
 - NYU Henry M. MacCracken Fellowship \[declined\] (2020)
 - Google Silver Perfy Award (2019)
