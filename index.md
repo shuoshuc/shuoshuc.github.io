@@ -25,6 +25,7 @@ I received my masters degree in computer engineering from [University of Virgini
   [NSDI 2024](https://www.usenix.org/conference/nsdi24)
   <br>
   [[abstract](https://www.usenix.org/conference/nsdi24/presentation/chen-shawn)] [[paper](./assets/papers/preciseTE-nsdi24.pdf)] [[code](https://shuoshuc.github.io/FabricEval/)]
+  [[talk](https://www.youtube.com/watch?v=BKRahdhVL-c)]
 
 - **Zero Buffer Optical Packet Switching Data Center Network**
   <br>
@@ -41,6 +42,7 @@ I received my masters degree in computer engineering from [University of Virgini
   [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/)
   <br>
   [[abstract](https://dl.acm.org/doi/10.1145/3544216.3544254)] [[paper](./assets/papers/tdtcp-sigcomm22.pdf)] [[code](https://github.com/shuoshuc/TDTCP)]
+  [[talk](https://www.youtube.com/watch?v=8eLBkI0okJc)]
 
 - **Orion: Google's Software-Defined Networking Control Plane**
   <br>
