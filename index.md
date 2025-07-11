@@ -96,7 +96,7 @@ I am very fortunate to work with many great people:
 
 - Review - IEEE/ACM Transactions on Networking, IEEE GLOBECOM'24
 - External review - HotNets'23, NSDI'23, NSDI'22
-- Artifact evaluation committee - SIGCOMM'24, SIGCOMM'23, CoNEXT'23, OSDI/ATC'22
+- Artifact evaluation committee - SIGCOMM'24, CoNEXT'24, SIGCOMM'23, CoNEXT'23, OSDI/ATC'22
 
 ## Fun Stuff
 
