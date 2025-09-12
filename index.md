@@ -83,6 +83,7 @@ I am very fortunate to work with many great people:
 
 ## Awards and Membership
 
+- Argonne Leadership Computing Facility Director’s Discretionary award (2025)
 - Google Cloud Research Credits (2025)
 - Lambda Research Grant (2025)
 - CMU Provost / Graduate Student Assembly funding award (2025)
