@@ -21,7 +21,7 @@ confddl_link: https://shuoshuc.github.io/netdeadlines
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/headshot.jpg
+avatar: ./assets/img/headshot.png
 favicon: ./assets/img/scs-dragon.png
 favicon_dark: ./assets/img/scs-dragon.png
 
