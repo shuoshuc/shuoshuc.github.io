@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-I am a 5th year PhD student in the [Computer Science Department](https://www.csd.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I am co-advised by [Srinivasan Seshan](http://www.cs.cmu.edu/~srini/) and [Peter Steenkiste](https://www.cs.cmu.edu/~prs/). My research focuses on building large-scale networked computers to sustain the performance scaling of computing in the post Moore's Law era. Most recently, I have been working on data center and HPC networks, optical networks and machine learning systems.
+I am a 5th year PhD student in the [Computer Science Department](https://www.csd.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I am co-advised by [Srinivasan Seshan](http://www.cs.cmu.edu/~srini/) and [Peter Steenkiste](https://www.cs.cmu.edu/~prs/). My research aims to deliver scalable, cost- and power-efficient connectivity to networked computers. Most recently, I have been working on data center and HPC networks, optical networks and machine learning systems.
 
-Prior to CMU, I was a technical lead on Google's [Network Infrastructure](https://research.google/teams/network-infrastructure/) team, where I built Google's [Jupiter](https://research.google/pubs/pub51587/) fabric and its SDN controller [Orion](https://research.google/pubs/pub50245/).
+Prior to CMU, I was a technical lead on Google's [Network Infrastructure](https://research.google/teams/network-infrastructure/) team. I built Google's [Jupiter](https://research.google/pubs/pub51587/) fabric and its SDN controller [Orion](https://research.google/pubs/pub50245/).
 
 I received my masters degree in computer engineering from [University of Virginia](https://www.virginia.edu/), and a bachelor in electrical engineering from [Wuhan University](https://en.whu.edu.cn/).
 
