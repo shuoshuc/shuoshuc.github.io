@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-I am a 5th year PhD student in the [Computer Science Department](https://www.csd.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I am co-advised by [Srinivasan Seshan](http://www.cs.cmu.edu/~srini/) and [Peter Steenkiste](https://www.cs.cmu.edu/~prs/). My research aims to deliver scalable, cost- and power-efficient connectivity to networked computers. Most recently, I have been working on data center and HPC networks, optical networks and machine learning systems.
+I am a 5th year PhD student in the [Computer Science Department](https://www.csd.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I am co-advised by [Srinivasan Seshan](http://www.cs.cmu.edu/~srini/) and [Peter Steenkiste](https://www.cs.cmu.edu/~prs/). My research aims to deliver scalable, cost- and power-efficient connectivity to networked systems. Most recently, I have been working on data center and HPC networks, optical networks and machine learning systems.
 
 Prior to CMU, I was a technical lead on Google's [Network Infrastructure](https://research.google/teams/network-infrastructure/) team. I built Google's [Jupiter](https://research.google/pubs/pub51587/) fabric and its SDN controller [Orion](https://research.google/pubs/pub50245/).
 
