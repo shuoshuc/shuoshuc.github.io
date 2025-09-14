@@ -77,8 +77,8 @@ I am very fortunate to work with many great people:
 - [Minlan Yu](https://minlanyu.seas.harvard.edu/)
 - [Manya Ghobadi](https://people.csail.mit.edu/ghobadi/)
 - [Alex C. Snoeren](https://cseweb.ucsd.edu/~snoeren/)
-- [Srikanth Kandula](https://www.microsoft.com/en-us/research/people/srikanth/)
-- [Ilias Marinos](https://www.microsoft.com/en-us/research/people/ilmarino/)
+- [Srikanth Kandula](https://www.linkedin.com/in/srikanthkandula/)
+- [Ilias Marinos](https://www.marinos.io/)
 - [Sadjad Fouladi](https://sadjad.org/)
 
 ## Awards and Membership
