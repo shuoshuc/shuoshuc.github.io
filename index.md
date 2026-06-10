@@ -8,10 +8,6 @@ Prior to CMU, I was a technical lead on Google's [Network Infrastructure](https:
 
 I received my masters degree in computer engineering from [University of Virginia](https://www.virginia.edu/), and a bachelor in electrical engineering from [Wuhan University](https://en.whu.edu.cn/).
 
-**📣📣📣 I am on the tenure-track faculty job market this year.**
-<br>
-**[ [CV](./assets/cv/cv.pdf) ]** **[ [Research Statement](./assets/files/research.pdf) ]** **[ [Teaching Statement](./assets/files/teaching.pdf) ]**
-
 
 ## Publications
 
