@@ -1,9 +1,8 @@
 # Basic Information 
 title: Shawn Shuoshuo Chen
-position: PhD Student
-affiliation: Carnegie Mellon University
-office: "Office: 9009 Gates Hillman Centers"
-email: shuoshuc [shift-2] cs.cmu.edu
+position: Incoming Assistant Professor of Computer Science
+affiliation: ETH Zurich, AMD
+email: shawn.chen [shift-2] inf.ethz.ch
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -37,7 +36,7 @@ google_analytics: UA-199966931-2
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
-lastupdate: "Dec 4, 2025"
+lastupdate: "Aug 29, 2026"
 
 # The following files will be removed from the generated website.
 exclude:
